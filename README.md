@@ -12,3 +12,24 @@ This repository is licensed under the MIT License, which means that you are free
 
 **Acknowledgments**<br>
 This repository was inspired by a desire to create a resource for individuals who are interested in learning or improving their data exploration and analysis skills. We would like to thank the contributors to this repository for their contributions and feedback, and we hope that this repository will be a useful resource for the data analysis community.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Factors that Influence Smartphone Sales</title>
+  </head>
+  <body>
+    <h1>Factors that Influence an Increase in Sales for Smartphones</h1>
+    <ul>
+      <li>Product features and design</li>
+      <li>Brand reputation and marketing</li>
+      <li>Price</li>
+      <li>Availability and distribution</li>
+      <li>Competition</li>
+      <li>Reviews and word-of-mouth</li>
+      <li>Economic factors</li>
+    </ul>
+    <p>These are just a few examples of the many factors that can influence sales for smartphones. Ultimately, the success of a smartphone depends on a combination of factors, including the quality of the product, the marketing and distribution strategies, and the overall state of the market.</p>
+  </body>
+</html>
+
