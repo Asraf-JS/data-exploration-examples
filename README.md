@@ -16,7 +16,6 @@ This repository was inspired by a desire to create a resource for individuals wh
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Factors that Influence Smartphone Sales</title>
   </head>
   <body>
     <h1>Factors that Influence an Increase in Sales for Smartphones</h1>
