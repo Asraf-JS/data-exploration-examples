@@ -1,0 +1,11 @@
+Product ID,Brand Name,Series,Date launched,Specs
+P01,Samsung,Galaxy S21,2021-01-29,"Exynos 2100, 8GB RAM, 128GB storage, 6.2"" FHD+ display, 64MP rear camera, 10MP front camera, 4000mAh battery"
+P02,Apple,iPhone 12,2020-10-23,"A14 Bionic, 4GB RAM, 64GB storage, 6.1"" Super Retina XDR display, 12MP dual rear camera, 12MP front camera, 2815mAh battery"
+P03,Xiaomi,Mi 11,2021-02-08,"Snapdragon 888, 8GB RAM, 128GB storage, 6.81"" AMOLED display, 108MP rear camera, 20MP front camera, 4600mAh battery"
+P04,OnePlus,8T,2020-10-16,"Snapdragon 865, 8GB RAM, 128GB storage, 6.55"" Fluid AMOLED display, 48MP quad rear camera, 16MP front camera, 4500mAh battery"
+P05,Oppo,Find X3 Pro,2021-03-11,"Snapdragon 888, 12GB RAM, 256GB storage, 6.7"" AMOLED display, 50MP quad rear camera, 32MP front camera, 4500mAh battery"
+P06,Asus,ZenFone 7,2020-08-26,"Snapdragon 865, 8GB RAM, 128GB storage, 6.67"" FHD+ display, 64MP triple rear camera, 8MP front camera, 5000mAh battery"
+P07,Vivo,X60 Pro,2021-03-22,"Snapdragon 870, 12GB RAM, 256GB storage, 6.56"" AMOLED display, 48MP quad rear camera, 32MP front camera, 4200mAh battery"
+P08,Realme,X7 Pro,2020-09-01,"Dimensity 1000+, 8GB RAM, 128GB storage, 6.55"" Super AMOLED display, 64MP quad rear camera, 32MP front camera, 4500mAh battery"
+P09,Huawei,Mate 40 Pro,2020-10-22,"Kirin 9000, 8GB RAM, 256GB storage, 6.76"" OLED display, 50MP quad rear camera, 13MP front camera, 4400mAh battery"
+P10,Nokia,X20,2021-04-08,"Snapdragon 480, 6GB RAM, 128GB storage, 6.67"" FHD+ display, 64MP quad rear camera, 32MP front camera, 4470mAh battery"
