@@ -32,7 +32,7 @@ This repository was inspired by a desire to create a resource for individuals wh
     </ul>
     <p>These are just a few examples of the many factors that can influence sales for smartphones. Ultimately, the success of a smartphone depends on a combination of factors, including the quality of the product, the marketing and distribution strategies, and the overall state of the market.</p>
     
-    <b>Table: Phone_by_Price.csv</b>
+  Table: Phone_by_Price.csv
 
 <table>
   <tr>
@@ -60,6 +60,76 @@ This repository was inspired by a desire to create a resource for individuals wh
     <td>The range of prices for the phone model.</td>
   </tr>
 </table>
+Table: Phone_by_Sales.csv
+
+<table>
+  <tr>
+    <th>Column Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>The date of the sale.</td>
+  </tr>
+  <tr>
+    <td>Product ID</td>
+    <td>A unique identifier for each phone model.</td>
+  </tr>
+  <tr>
+    <td>Phone</td>
+    <td>The name of the phone model.</td>
+  </tr>
+  <tr>
+    <td>Launch Date</td>
+    <td>The date on which the phone model was launched.</td>
+  </tr>
+</table>
+Table: Phone_by_Sentiment.csv
+
+<table>
+  <tr>
+    <th>Column Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Date launched</td>
+    <td>The date on which the phone model was launched.</td>
+  </tr>
+  <tr>
+    <td>Phone</td>
+    <td>The name of the phone model.</td>
+  </tr>
+  <tr>
+    <td>Company</td>
+    <td>The company that produces the phone model.</td>
+  </tr>
+  <tr>
+    <td>Specs</td>
+    <td>The technical specifications of the phone model.</td>
+  </tr>
+  <tr>
+    <td>Brunei</td>
+    <td>The popularity sentiment score for the phone model in Brunei (on a scale of 1-10).</td>
+  </tr>
+  <tr>
+    <td>Cambodia</td>
+    <td>The popularity sentiment score for the phone model in Cambodia (on a scale of 1-10).</td>
+  </tr>
+  <tr>
+    <td>East Timor</td>
+    <td>The popularity sentiment score for the phone model in East Timor (on a scale of 1-10).</td>
+  </tr>
+  <tr>
+    <td>Indonesia</td>
+    <td>The popularity sentiment score for the phone model in Indonesia (on a scale of 1-10).</td>
+  </tr>
+  <tr>
+    <td>Laos</td>
+    <td>The popularity sentiment score for the phone model in Laos (on a scale of 1-10).</td>
+  </tr>
+  <tr>
+    <td>Malaysia</td>
+    <td>The popularity sentiment score for the phone model in Malaysia (on a scale of 1-10).</td>
   </body>
 </html>
 
