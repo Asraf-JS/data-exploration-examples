@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 **Data Exploration Examples**<br>
 This repository contains a collection of sample data sets that can be used for practicing data exploration and analysis. The data sets are in various formats, such as CSV, Excel, and JSON, and cover a range of topics, including finance, social media, demographics, and more.
 
@@ -13,8 +15,8 @@ This repository is licensed under the MIT License, which means that you are free
 **Acknowledgments**<br>
 This repository was inspired by a desire to create a resource for individuals who are interested in learning or improving their data exploration and analysis skills. We would like to thank the contributors to this repository for their contributions and feedback, and we hope that this repository will be a useful resource for the data analysis community.
 
-<!DOCTYPE html>
-<html>
+
+
   <head>
   </head>
   <body>
@@ -29,6 +31,35 @@ This repository was inspired by a desire to create a resource for individuals wh
       <li>Economic factors</li>
     </ul>
     <p>These are just a few examples of the many factors that can influence sales for smartphones. Ultimately, the success of a smartphone depends on a combination of factors, including the quality of the product, the marketing and distribution strategies, and the overall state of the market.</p>
+    
+    <h1>Table: Phone_by_Price.csv</h1>
+
+<table>
+  <tr>
+    <th>Column Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Product ID</td>
+    <td>A unique identifier for each phone model.</td>
+  </tr>
+  <tr>
+    <td>Phone</td>
+    <td>The name of the phone model.</td>
+  </tr>
+  <tr>
+    <td>Company</td>
+    <td>The company that produces the phone model.</td>
+  </tr>
+  <tr>
+    <td>Specs</td>
+    <td>The technical specifications of the phone model.</td>
+  </tr>
+  <tr>
+    <td>Price Range</td>
+    <td>The range of prices for the phone model.</td>
+  </tr>
+</table>
   </body>
 </html>
 
