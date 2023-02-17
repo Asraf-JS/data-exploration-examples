@@ -60,6 +60,7 @@ This repository was inspired by a desire to create a resource for individuals wh
     <td>The range of prices for the phone model.</td>
   </tr>
 </table>
+    
 **Table: Phone_by_Sales.csv**
 
 <table>
@@ -84,6 +85,7 @@ This repository was inspired by a desire to create a resource for individuals wh
     <td>The date on which the phone model was launched.</td>
   </tr>
 </table>
+    
 **Table: Phone_by_Sentiment.csv**
 
 <table>
