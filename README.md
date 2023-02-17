@@ -32,7 +32,7 @@ This repository was inspired by a desire to create a resource for individuals wh
     </ul>
     <p>These are just a few examples of the many factors that can influence sales for smartphones. Ultimately, the success of a smartphone depends on a combination of factors, including the quality of the product, the marketing and distribution strategies, and the overall state of the market.</p>
     
-    <h2> Table: Phone_by_Price.csv</h2>
+   **Table: Phone_by_Price.csv**
 
 <table>
   <tr>
