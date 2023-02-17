@@ -1,0 +1,34 @@
+Product ID,Phone,Company,Specs,Phone,Price Range
+P001,iPhone 11,Apple,"6.1"" Liquid Retina IPS LCD",iPhone 11,$699-$749
+P002,Samsung Galaxy S20 Ultra,Samsung,"6.9"" Dynamic AMOLED 2X",Samsung Galaxy S20 Ultra,"$1,399-$1,599"
+P003,Xiaomi Redmi Note 10,Xiaomi,"6.43"" Super AMOLED",Xiaomi Redmi Note 10,$199-$249
+P004,OPPO A54,Oppo,"6.51"" IPS LCD",OPPO A54,$199-$249
+P005,Vivo Y20,Vivo,"6.51"" IPS LCD",Vivo Y20,$149-$199
+P006,Huawei Y9a,Huawei,"6.63"" IPS LCD",Huawei Y9a,$229-$279
+P007,Xiaomi Redmi 10,Xiaomi,"6.5"" IPS LCD",Xiaomi Redmi 10,$149-$199
+P008,Samsung Galaxy A52,Samsung,"6.5"" Super AMOLED",Samsung Galaxy A52,$349-$399
+P009,Vivo Y33s,Vivo,"6.58"" IPS LCD",Vivo Y33s,$199-$249
+P010,Vivo Y11s,Vivo,"6.51"" IPS LCD",Vivo Y11s,$129-$149
+P011,Huawei Nova 7i,Huawei,"6.4"" IPS LCD",Huawei Nova 7i,$299-$349
+P012,iPhone 13,Apple,"6.1"" Super Retina XDR OLED",iPhone 13,"$799-$1,099"
+P013,Samsung Galaxy S21,Samsung,"6.2"" Dynamic AMOLED 2X",Samsung Galaxy S21,"$799-$1,199"
+P014,Google Pixel 6,Google,"6.4"" AMOLED",Google Pixel 6,$599-$699
+P015,OnePlus Nord CE,OnePlus,"6.43"" Fluid AMOLED",OnePlus Nord CE,$299-$399
+P016,Apple iPhone 13 Pro,Apple,"6.1"" Super Retina XDR OLED",Apple iPhone 13 Pro,"$999-$1,099"
+P017,Samsung Galaxy A32 5G,Samsung,"6.5"" TFT",Samsung Galaxy A32 5G,$279-$329
+P018,Realme C25,Realme,"6.5"" IPS LCD",Realme C25,$149-$199
+P019,Xiaomi Poco X3 Pro,Xiaomi,"6.67"" IPS LCD",Xiaomi Poco X3 Pro,$199-$249
+P020,Samsung Galaxy Z Flip 3,Samsung,"6.7"" Dynamic AMOLED 2X",Samsung Galaxy Z Flip 3,"$999-$1,099"
+P021,Xiaomi Poco X3 NFC,Xiaomi,"6.67"" IPS LCD",Xiaomi Poco X3 NFC,$199-$249
+P022,OPPO A93,Oppo,"6.43"" AMOLED",OPPO A93,$299-$349
+P023,Vivo V20,Vivo,"6.44"" AMOLED",Vivo V20,$299-$349
+P024,Samsung Galaxy A50,Samsung,"6.4"" Super AMOLED",Samsung Galaxy A50,$349-$399
+P025,Xiaomi Redmi Note 7,Xiaomi,"6.3"" IPS LCD",Xiaomi Redmi Note 7,$149-$199
+P026,Realme C21,Realme,"6.5"" IPS LCD",Realme C21,$99-$149
+P027,Google Pixel 4,Google,"5.7"" P-OLED",Google Pixel 4,$799-$899
+P028,Samsung Galaxy A10s,Samsung,"6.2"" PLS TFT",Samsung Galaxy A10s,$149-$199
+P029,Realme Narzo 30A,Realme,"6.5"" IPS LCD",Realme Narzo 30A,$129-$149
+P030,Samsung Galaxy A22 5G,Samsung,"6.6"" TFT",Samsung Galaxy A22 5G,$249-$299
+P031,Xiaomi Redmi 9,Xiaomi,"6.53"" IPS LCD",Xiaomi Redmi 9,$99-$149
+P032,Realme C3,Realme,"6.5"" IPS LCD",Realme C3,$99-$149
+P033,Samsung Galaxy A7,Samsung,"6.0"" Super AMOLED",Samsung Galaxy A7,$399-$449
