@@ -1,0 +1,6 @@
+let
+    Source = Web.BrowserContents("https://klec.jayagrocer.com/collections/snacks?page=3"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", ".product-item__title"}, {"Column2", ".ssw-faveiticon + *"}, {"Column3", ".button\-\-primary.product-item__action-button"}, {"Column4", ".product-item__action-button\-\-list-view-only"}, {"Column5", ".product-item__info:nth-child(3) .price"}, {"Column6", ".price\-\-highlight"}, {"Column7", ".price\-\-compare"}}, [RowSelector=".product-item"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}, {"Column3", type text}, {"Column4", type text}, {"Column5", Currency.Type}, {"Column6", Currency.Type}, {"Column7", Currency.Type}})
+in
+    #"Changed Type"
